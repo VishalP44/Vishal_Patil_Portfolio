@@ -123,12 +123,15 @@ ul { list-style: none; }
 .nav-logo .dot { color: var(--accent); }
 
 .nav-avatar {
-  width: 36px;
-  height: 36px;
+  width: 36px !important;
+  height: 36px !important;
+  max-width: 36px !important;
+  max-height: 36px !important;
   border-radius: 50%;
   object-fit: cover;
   border: 2px solid var(--accent);
   display: block;
+  flex-shrink: 0;
   transition: opacity var(--transition);
 }
 .nav-avatar:hover { opacity: 0.85; }
