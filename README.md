@@ -1,4 +1,4 @@
-# Vishal Patil — Data & BI Portfolio
+# Vishal Patil: Data & BI Portfolio
 
 Personal portfolio for a UK-experienced Data and BI Analyst specialising in Power BI, SQL, semantic modelling, operational insight, and stakeholder-facing analytics.
 
